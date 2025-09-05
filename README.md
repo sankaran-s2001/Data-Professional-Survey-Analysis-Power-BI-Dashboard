@@ -7,6 +7,8 @@
 
 Interactive Power BI dashboard analyzing survey responses from 500+ data professionals worldwide about their careers, salaries, and job satisfaction.
 
+![Dashboard_screenshot](Dashboard_screenshot.jpg)
+
 ## 🎯 What This Project Shows
 
 This dashboard analyzes real survey data from data professionals to understand:
